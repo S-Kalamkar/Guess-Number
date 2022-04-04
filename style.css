@@ -1,0 +1,32 @@
+#getNumber{
+    font-size: 22px;
+    text-align: center;
+
+}
+
+.inputNumberBox{
+    display: flex;
+    justify-content: center;
+}
+
+#paragraph{
+    margin-left: 20px;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.header{
+    background-color: rgb(13, 110, 194);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.subtitle{
+    background-color: rgb(13, 194, 110);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
